@@ -1,0 +1,16 @@
+{
+  "name": "practicaspring",
+  "version": "1.0.0",
+  "description": "scripts",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./scripts/build.sh",
+    "deploy": "./scripts/deploy.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.83.0"
+  }
+}
